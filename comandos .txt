@@ -1,0 +1,1 @@
+git log è um ncomando de texto
