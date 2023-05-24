@@ -1,1 +1,3 @@
 git log è um ncomando de texto
+git status e um otimo comando
+qualquer coisa 
